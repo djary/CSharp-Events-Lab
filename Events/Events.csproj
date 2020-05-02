@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DeclareADelegateForAnEvent\DeclareADelegateForAnEvent.csproj" />
     <ProjectReference Include="..\EventHandlerExample\EventHandlerExample.csproj" />
+    <ProjectReference Include="..\EventHandlerTEventArgsExample\EventHandlerTEventArgsExample.csproj" />
   </ItemGroup>
 
 </Project>
